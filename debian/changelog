@@ -1,0 +1,7 @@
+alpha-os-arc-theme (20171105-1) xenial; urgency=medium
+
+  * Initial release
+  * Pulled 20171105 changes, found at https://github.com/NicoHood/arc-theme.
+  * Currently built with Unity support disabled.
+
+ -- Richard Buchanan II <richard@alpha.store>  Sat, 11 Nov 2017 14:31:13 -0600
